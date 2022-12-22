@@ -1,4 +1,4 @@
-module github.com/hellokvn/go-grpc-order-svc
+module github.com/agungnugroho24/go-grpc-order-svc
 
 go 1.18
 
